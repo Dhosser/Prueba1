@@ -1,6 +1,6 @@
 NOMBRES:
-Elias Demetrio
 Luciano Miranda
+Elias Demetrio
 
 SECCION:
 PGY3121-007D
