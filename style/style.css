@@ -25,13 +25,13 @@ h1, h2, h3, h4, h5, h6
 
 h2
 { font: normal 175% 'century gothic', arial, sans-serif;
-  color: #1293EE;}
+  color: #000000;}
 
 h4, h5, h6
 { margin: 0;
   padding: 0 0 5px 0;
   font: normal 120% arial, sans-serif;
-  color: #1293EE;}
+  color: #ee1212;}
 
 h5, h6
 { font: italic 95% arial, sans-serif;
@@ -205,7 +205,7 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
   height: 33px;
   padding: 24px 0 5px 0;
   text-align: center; 
-  background: #29425E url(footer.png) repeat-x;
+  background: #5e2929 url(footer.png) repeat-x;
   color: #FFF;
   text-transform: uppercase;
   letter-spacing: 0.1em;}
@@ -295,3 +295,18 @@ table tr td
   color: #47433F;
   border-top: 1px solid #FFF;}
 
+.text-center{
+  text-align:right;
+}
+
+.text1{
+  text-align: left;
+}
+
+.text2{
+  text-align: left;
+}
+
+.text3{
+  text-align: left;
+}
